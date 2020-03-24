@@ -15,7 +15,8 @@
 - Drupal (usually) costs more initially but has lower cost long term.
 - Instead of paying for a commercial license pay to extend or make better your solution.
 - Try to learn what is the current opinion the customer has about Drupal.
-- Try to learn how is the customer now solving problems (what system is using, who manages it, what are the issues, what is the cost etc).  
+- Try to learn how is the customer now solving problems (what system is using, who manages it, what are the issues, what is the cost etc).
+- Show other clients feedback (testimonials) about Drupal.
 
 ## What to avoid
 - Don's sell what it does or how it works.
