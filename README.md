@@ -71,3 +71,4 @@
 - [Palantir.net's Guide to Digital Governance](https://www.palantir.net/node/731)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
 - [Complete Guide on Drupal Security](https://www.keycdn.com/blog/drupal-security)
+- [Svg glyphs, illustrations and icons related to Drupal CMS](https://github.com/theodorosploumis/drupal-glyphs)
