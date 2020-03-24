@@ -58,6 +58,7 @@
 - [Drupal: Agency Marketing](https://www.drupal.org/community/agency-marketing)
 - [Drupal Initiative Material](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
 - [The ultimate guide to Drupal 8 - pdf](https://www.acquia.com/sites/acquia.com/files/documents/2019-05/UltimateGuideToDrupal_8.7.pdf)
+- [State of Drupal (10/2019)](https://dri.es/state-of-drupal-presentation-october-2019)
 - [drupal.org/8](https://www.drupal.org/8)
 - [Why Drupal 8](https://www.drupal.com/why-drupal-8)
 - [Who uses Drupal - Showcases](https://www.drupal.com/showcases)
@@ -70,5 +71,13 @@
 
 - [Palantir.net's Guide to Digital Governance](https://www.palantir.net/node/731)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
-- [Complete Guide on Drupal Security](https://www.keycdn.com/blog/drupal-security)
+- [Complete Guide on Drupal Security ()](https://www.keycdn.com/blog/drupal-security)
+- [Acquia a leader in 2019 Gartner Magic Quadrant for Web Content Management (2019)](https://dri.es/acquia-a-leader-in-2019-gartner-magic-quadrant-for-web-content-management)
+- [Have We Reached Peak Drupal? (2017)](https://www.previousnext.com.au/blog/have-we-reached-peak-drupal)
 - [Svg glyphs, illustrations and icons related to Drupal CMS](https://github.com/theodorosploumis/drupal-glyphs)
+
+## Other useful material
+![](https://symmetritechnology.com/sites/default/files/WordPress-vs-Drupal-project-cost-comaprison-graph2.jpg)
+
+---
+
