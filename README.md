@@ -80,7 +80,11 @@
 - [Svg glyphs, illustrations and icons related to Drupal CMS (github)](https://github.com/theodorosploumis/drupal-glyphs)
 
 ## Other useful material
-![](https://symmetritechnology.com/sites/default/files/WordPress-vs-Drupal-project-cost-comaprison-graph2.jpg)
+![](drupal_vs_wp.jpeg)
+
+![](curve_roles.png)
+
+![](drupal_vs_wp.png)
 
 ---
 
