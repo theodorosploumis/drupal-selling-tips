@@ -67,6 +67,7 @@
 - [Drupal Brand and logo guidelines 2018 (pdf)](https://drive.google.com/file/d/1sgVB1xOeLxnBNfuke73W86f1zrztttGQ/view)
 - [Selling Drupal (Youtube list)](https://www.youtube.com/playlist?list=PLu2UqJVurcrveBrIuRUvQPLld2Spg_Hzg)
 - [Selling Drupal to the Enterprise](https://vimeo.com/55590561)
+- [Is it time to give Drupal another look? (Stack Overflow Blog](https://stackoverflow.blog/2020/06/23/is-it-time-to-give-drupal-another-look)
 - [drupalsites.net](https://drupalsites.net)
 
 ---
