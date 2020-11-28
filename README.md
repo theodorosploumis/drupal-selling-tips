@@ -84,7 +84,7 @@
 
 ![](curve_roles.png)
 
-![](drupal_vs_wp.png)
+![](decouple_drupal.png)
 
 ---
 
