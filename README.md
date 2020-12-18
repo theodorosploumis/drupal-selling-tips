@@ -56,6 +56,11 @@
 - Built for the "hard".
 
 
+## Drupal Distributions
+- Before giving an estimation about a project search carefully on Drupal.org because a [Distribution](https://www.drupal.org/project/project_distribution) may already exist there to fit your needs. 
+
+Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thunder](https://www.drupal.org/project/thunder) [Rain](https://www.drupal.org/project/rain), [Varbase](https://www.drupal.org/project/varbase) etc could be an option for generic content websites.
+
 ## Sources & links
 - [Drupal: Agency Marketing](https://www.drupal.org/community/agency-marketing)
 - [Drupal Initiative Material (google drive)](https://drive.google.com/drive/folders/1ZkRt80-XuEmAIka_w3SLv8stc4zlaFwG)
