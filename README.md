@@ -79,7 +79,7 @@ Distributions like [Lightning](https://www.drupal.org/project/lightning), [Thund
 
 - [Palantir.net's Guide to Digital Governance](https://www.palantir.net/node/731)
 - [stackshare.io/drupal](https://stackshare.io/drupal)
-- [Complete Guide on Drupal Security ()](https://www.keycdn.com/blog/drupal-security)
+- [Complete Guide on Drupal Security (2018)](https://www.keycdn.com/blog/drupal-security)
 - [Acquia a leader in 2019 Gartner Magic Quadrant for Web Content Management (2019)](https://dri.es/acquia-a-leader-in-2019-gartner-magic-quadrant-for-web-content-management)
 - [Have We Reached Peak Drupal? (2017)](https://www.previousnext.com.au/blog/have-we-reached-peak-drupal)
 - [Svg glyphs, illustrations and icons related to Drupal CMS (github)](https://github.com/theodorosploumis/drupal-glyphs)
